@@ -8,3 +8,5 @@ Just activate it and it will start watching your clipboard. Whenever some text i
 This way you can just keep adding stuff to your spreadsheet without having to switch for pasting every time.
 
 Text with line breaks and tabs are split and pasted to different rows and columns, respectively (as expected).
+
+<img src="https://github.com/jpcarrascal/ExcelAutoPaste/blob/master/ExcelAutoPaste/icons/watch.png?raw=true" style="width:100px;" />
